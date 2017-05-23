@@ -8,9 +8,13 @@ MainProgram_Modelling_alpha1
 MainProgram_Modeling_alpha3
 1. Use ModelingCamera_alpha3
 
-2017/2/2
-MainProgram_Modeling_alpha2
+2017/5/23
+MainProgram_Modeling_alpha4
 1. For Uploading
+
+Copyright (c) 2017 by Wenliang Du (du_wenliang@qq.com), 
+Laboratory of Robotic Vision, School of Engineering Science, Macau University of Science and Technology
+Last Modified October 2017/5/23
 %}
 
 %% Initialization the parameters of camera
